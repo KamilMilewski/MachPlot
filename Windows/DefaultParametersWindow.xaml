@@ -1,0 +1,89 @@
+﻿<Window x:Name="defaultParametersWindow" x:Class="MachPlotNamespace.DefaultParametersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Parametry modelu" Height="454.598" Width="872.733">
+    <Grid Height="429" VerticalAlignment="Top">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="496*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="369*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="R1Label" Content="R1:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,131,0,0" Height="26" Width="34"/>
+        <Label x:Name="R2Label" Content="R2:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,157,0,0" Height="26" Width="34"/>
+        <Label x:Name="L1Label" Content="L1:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,183,0,0" Height="26" Width="34"/>
+        <Label x:Name="L2Label" Content="L2:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,209,0,0" Height="26" Width="34"/>
+        <TextBox x:Name="R1TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="57,134,0,0" TextChanged="R1TextBox_TextChanged"/>
+        <TextBox x:Name="R2TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="57,160,0,0" TextChanged="R2TextBox_TextChanged"/>
+        <TextBox x:Name="L1TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="57,186,0,0" TextChanged="L1TextBox_TextChanged"/>
+        <TextBox x:Name="L2TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="57,212,0,0" TextChanged="L2TextBox_TextChanged"/>
+        <Label x:Name="fLabel" Content="f:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,103,0,0" Height="26" Width="34"/>
+        <TextBox x:Name="fTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="57,106,0,0" TextChanged="fTextBox_TextChanged"/>
+        <Button x:Name="saveButton" Content="zapisz" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="137,381,0,0" Click="saveButton_Click" Height="22" Grid.Column="2"/>
+        <Label x:Name="startXLabel" Content="początek:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,323,0,0" Height="26" Width="67"/>
+        <TextBox x:Name="startXTextBox" HorizontalAlignment="Left" Height="24" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="101,323,0,0" SpellCheck.IsEnabled="True" TextChanged="startXTextBox_TextChanged"/>
+        <Label x:Name="endXLabel" Content="koniec:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,351,0,0" Height="26" Width="67"/>
+        <TextBox x:Name="endXTextBox" HorizontalAlignment="Left" Height="24" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="101,352,0,0" TextChanged="endXTextBox_TextChanged"/>
+        <Label x:Name="stepLabel" Content="krok obl.:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,379,0,0" Height="26" Width="67"/>
+        <TextBox x:Name="stepTextBox" HorizontalAlignment="Left" Height="24" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="101,379,0,0" TextChanged="stepTextBox_TextChanged"/>
+        <Label x:Name="U1Label" Content="U1:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,75,0,0" Height="26" Width="34"/>
+        <TextBox x:Name="U1TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="57,78,0,0" TextChanged="U1TextBox_TextChanged"/>
+        <Label Content="Zakres obliczeń:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,297,0,0" FontWeight="Bold" Height="26" Width="99"/>
+        <Label x:Name="LmLabel" Content="Lm:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,237,0,0" Height="26" Width="34"/>
+        <TextBox x:Name="LmTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="57,240,0,0" TextChanged="LmTextBox_TextChanged"/>
+        <Label x:Name="RfeLabel" Content="Rfe:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,265,0,0" Height="26" Width="34"/>
+        <TextBox x:Name="RfeTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="57,268,0,0" TextChanged="RfeTextBox_TextChanged"/>
+        <Label Content="Parametry silnika klatkowego:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="173,10,0,0" FontWeight="Bold" Height="26" Width="180"/>
+        <Label Content="Współczynniki modeli maszyn robocych:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,10,0,0" FontWeight="Bold" Grid.Column="2" Height="26" Width="240"/>
+        <Label x:Name="cLabel" Content="c:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="178,211,0,0" Height="26" Width="34" Grid.Column="2"/>
+        <TextBox x:Name="cFanTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="210,214,0,0" TextChanged="cFanTextBox_TextChanged" Grid.Column="2"/>
+        <Label x:Name="bLabel" Content="b:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="178,183,0,0" Height="26" Width="34" Grid.Column="2"/>
+        <TextBox x:Name="bFanTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="210,186,0,0" TextChanged="bFanTextBox_TextChanged" Grid.Column="2"/>
+        <Label x:Name="aLabel" Content="a:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="178,126,0,0" Height="26" Width="34" Grid.Column="2"/>
+        <TextBox x:Name="aFanTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="210,129,0,0" TextChanged="aFanTextBox_TextChanged" Grid.Column="2"/>
+        <Label Content="Obciążenie wentylatorowe:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="178,100,0,0" FontWeight="Bold" Height="26" Width="180" Grid.Column="2"/>
+        <Label x:Name="cLabel_Copy" Content="c:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="13,123,0,0" Height="26" Width="34" Grid.Column="2"/>
+        <TextBox x:Name="cConveyorTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="45,126,0,0" TextChanged="cConveyorTextBox_TextChanged" Grid.Column="2"/>
+        <Label x:Name="bLabel_Copy" Content="b:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="13,95,0,0" Height="26" Width="34" Grid.Column="2"/>
+        <TextBox x:Name="bConveyorTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="45,98,0,0" TextChanged="bConveyorTextBox_TextChanged" Grid.Column="2"/>
+        <Label x:Name="aLabel_Copy" Content="a:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="13,67,0,0" Height="26" Width="34" Grid.Column="2"/>
+        <TextBox x:Name="aConveyorTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="45,70,0,0" TextChanged="aConveyorTextBox_TextChanged" Grid.Column="2"/>
+        <Label Content="Obciążenie taśmowe:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="13,41,0,0" FontWeight="Bold" Height="26" Width="131" Grid.Column="2"/>
+        <Label x:Name="cLabel_Copy1" Content="c:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="178,69,0,0" Height="26" Width="34" Grid.Column="2"/>
+        <TextBox x:Name="cCraneTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="210,72,0,0" TextChanged="cCraneTextBox_TextChanged" Grid.Column="2"/>
+        <Label Content="Obciążenie dźwigowe:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="178,44,0,0" FontWeight="Bold" Height="26" Width="180" Grid.Column="2"/>
+        <Label x:Name="cLabel_Copy2" Content="c:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,234,0,0" Height="26" Width="34" Grid.Column="2"/>
+        <TextBox x:Name="cGeneratorTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="42,237,0,0" TextChanged="cGeneratorTextBox_TextChanged" Grid.Column="2"/>
+        <Label x:Name="bLabel_Copy2" Content="b:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,206,0,0" Height="26" Width="34" Grid.Column="2"/>
+        <TextBox x:Name="bGeneratorTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="42,209,0,0" TextChanged="bGeneratorTextBox_TextChanged" Grid.Column="2"/>
+        <Label x:Name="aLabel_Copy2" Content="a:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,178,0,0" Height="26" Width="34" Grid.Column="2"/>
+        <TextBox x:Name="aGeneratorTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="42,181,0,0" TextChanged="aGeneratorTextBox_TextChanged" Grid.Column="2"/>
+        <Label Content="Obciążenie generatorowe:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,152,0,0" FontWeight="Bold" Height="26" Width="165" Grid.Column="2"/>
+        <Label x:Name="a2Label" Content="a2:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="178,154,0,0" Height="26" Width="34" Grid.Column="2"/>
+        <TextBox x:Name="a2FanTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="210,157,0,0" TextChanged="a2FanTextBox_TextChanged" Grid.Column="2"/>
+        <TextBox x:Name="R1maxTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="344,134,0,0" TextChanged="R1maxTextBox_TextChanged"/>
+        <TextBox x:Name="R2maxTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="344,160,0,0" TextChanged="R2maxTextBox_TextChanged"/>
+        <TextBox x:Name="L1maxTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="344,186,0,0" TextChanged="L1maxTextBox_TextChanged"/>
+        <TextBox x:Name="L2maxTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="344,212,0,0" TextChanged="L2maxTextBox_TextChanged"/>
+        <TextBox x:Name="fmaxTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="344,106,0,0" TextChanged="fmaxTextBox_TextChanged"/>
+        <TextBox x:Name="U1maxTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="344,78,0,0" TextChanged="U1maxTextBox_TextChanged"/>
+        <TextBox x:Name="LmmaxTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="344,240,0,0" TextChanged="LmmaxTextBox_TextChanged"/>
+        <TextBox x:Name="RfemaxTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="344,268,0,0" TextChanged="RfemaxTextBox_TextChanged"/>
+        <TextBox x:Name="R1minTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="201,133,0,0" TextChanged="R1minTextBox_TextChanged"/>
+        <TextBox x:Name="R2minTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="201,159,0,0" TextChanged="R2minTextBox_TextChanged"/>
+        <TextBox x:Name="L1minTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="201,185,0,0" TextChanged="L1minTextBox_TextChanged"/>
+        <TextBox x:Name="L2minTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="201,211,0,0" TextChanged="L2minTextBox_TextChanged"/>
+        <TextBox x:Name="fminTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="201,105,0,0" TextChanged="fminTextBox_TextChanged"/>
+        <TextBox x:Name="U1minTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="201,77,0,0" TextChanged="U1minTextBox_TextChanged"/>
+        <TextBox x:Name="LmminTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="201,239,0,0" TextChanged="LmminTextBox_TextChanged"/>
+        <TextBox x:Name="RfeminTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="201,267,0,0" TextChanged="RfeminTextBox_TextChanged"/>
+        <Label Content="Domyślne:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="76,47,0,0" FontWeight="Bold" Height="26" Width="72"/>
+        <Label ToolTip="maksymalny zakres suwaka" Content="max:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="382,47,0,0" FontWeight="Bold" Height="26" Width="38"/>
+        <Label ToolTip="minimalny zakres suwaka" Content="min:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="240,46,0,0" FontWeight="Bold" Height="26" Width="38"/>
+        <Label Content="Inne:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="254,297,0,0" FontWeight="Bold" Height="26" Width="150"/>
+        <Label x:Name="startXLabel_Copy" Content="grubość linii:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="256,325,0,0" Height="26" Width="78"/>
+        <TextBox x:Name="strokeThicknessTextBox" ToolTip="ustawia grubość linii wizualizowanych charakterystyk" HorizontalAlignment="Left" Height="24" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="345,325,0,0" SpellCheck.IsEnabled="True" TextChanged="strokeThicknessTextBox_TextChanged"/>
+        <CheckBox x:Name="separateWindows_checkBox" ToolTip="włącza rendering każdej wielkości w oddzielnym oknie" Content="rysuj w oddzielnych oknach" HorizontalAlignment="Left" Margin="262,354,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

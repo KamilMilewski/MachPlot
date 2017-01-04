@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Parameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aFan>1E-06</aFan>
+  <a2Fan>0.003</a2Fan>
+  <bFan>1E-06</bFan>
+  <cFan>3</cFan>
+  <cCrane>7</cCrane>
+  <aConveyor>100</aConveyor>
+  <bConveyor>30</bConveyor>
+  <cConveyor>7</cConveyor>
+  <aGenerator>0.01</aGenerator>
+  <bGenerator>1</bGenerator>
+  <cGenerator>1</cGenerator>
+  <U1>230</U1>
+  <f>50</f>
+  <polePairs>3</polePairs>
+  <R1>4</R1>
+  <R2>6</R2>
+  <L1>0.08</L1>
+  <L2>0.03</L2>
+  <Lm>3</Lm>
+  <Rfe>2000</Rfe>
+  <turnsRatio>2</turnsRatio>
+  <U1max>400</U1max>
+  <U1min>10</U1min>
+  <fmax>300</fmax>
+  <fmin>1</fmin>
+  <R1max>20</R1max>
+  <R1min>1</R1min>
+  <R2max>20</R2max>
+  <R2min>1</R2min>
+  <L1max>0.3</L1max>
+  <L1min>0.01</L1min>
+  <L2max>0.3</L2max>
+  <L2min>0.01</L2min>
+  <Lmmax>6</Lmmax>
+  <Lmmin>1</Lmmin>
+  <Rfemax>3000</Rfemax>
+  <Rfemin>234</Rfemin>
+  <step>1</step>
+  <startX>0</startX>
+  <endX>1500</endX>
+</Parameters>

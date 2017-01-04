@@ -1,0 +1,63 @@
+﻿<Application x:Class="MachPlotNamespace.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="Windows/MainWindow.xaml">
+    <Application.Resources>
+        <!-- MachPlot canvas line styles -->
+        <Style x:Key="horizontalLineStyle" TargetType="Line">
+            <Setter Property="StrokeThickness" Value="0.6" />
+            <Setter Property="StrokeDashArray" Value="2 5" />
+            <Setter Property="Stroke" Value="Black" />
+        </Style>
+        <Style x:Key="verticalLineStyle" TargetType="Line">
+            <Setter Property="StrokeThickness" Value="0.6" />
+            <Setter Property="StrokeDashArray" Value="2 5" />
+            <Setter Property="Stroke" Value="Black" />
+        </Style>
+        <Style x:Key="axisXLineStyle" TargetType="Line">
+            <Setter Property="StrokeThickness" Value="1" />
+            <Setter Property="Stroke" Value="Black" />
+        </Style>
+        <Style x:Key="axisYLineStyle" TargetType="Line">
+            <Setter Property="StrokeThickness" Value="1" />
+            <Setter Property="Stroke" Value="Black" />
+        </Style>
+        <!-- MachPlot Axis label styles -->
+        <Style x:Key="axisXLabelStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="12" />
+        </Style>
+        <Style x:Key="axisY0LabelStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="12" />
+        </Style>
+        <Style x:Key="axisY1LabelStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="12" />
+        </Style>
+        <Style x:Key="axisY2LabelStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="12" />
+        </Style>
+        <Style x:Key="axisY3LabelStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="12" />
+        </Style>
+        <!-- MachPlot Axis description styles -->
+        <Style x:Key="axisXDescriptionStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+        <Style x:Key="axisY0DescriptionStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+        <Style x:Key="axisY1DescriptionStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+        <Style x:Key="axisY2DescriptionStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+        <Style x:Key="axisY3DescriptionStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+    </Application.Resources>
+</Application>

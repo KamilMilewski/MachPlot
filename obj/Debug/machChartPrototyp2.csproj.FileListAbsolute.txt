@@ -1,0 +1,853 @@
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\C#\machChartPrototyp2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\Desktop\C#\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\Desktop\machChartPrototyp3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\c# archiwum\machChartPrototyp-23.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\c# archiwum\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\c# archiwum\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\Desktop\machChartPrototyp-23.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-24.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-25.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-29.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\Desktop\machChartPrototyp-29.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-30.06.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-01.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-02.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-03.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-05.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-07.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\Desktop\mag\machChartPrototyp-07.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-10.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-11.07.15v4\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-12.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\Desktop\machChartPrototyp-13.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\Desktop\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-13.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-14.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-18.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-19.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-19.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-21.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-21.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v3\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-25.07.15v4\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\Windows\AboutWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\Windows\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\Windows\AboutWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-26.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\Windows\AboutWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\Windows\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\Windows\AboutWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-27.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\Windows\AboutWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\Windows\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\Windows\AboutWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\Windows\AboutWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\Windows\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\Windows\AboutWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\Windows\AboutWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\Windows\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\Windows\AboutWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-28.07.15v2 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\Windows\AboutWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\Windows\MainWindow.baml
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\Windows\AboutWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Jaszczomp\OneDrive\machChartPrototyp-29.07.15v1 incomplete\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe.config
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.exe
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\bin\Debug\machChartPrototyp2.pdb
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\Windows\AboutWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\Windows\MainWindow.baml
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\Windows\AboutWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\Windows\DefaultParametersWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\App.g.cs
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2_MarkupCompile.cache
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.g.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.Properties.Resources.resources
+C:\Users\Kamil\OneDrive\machChartPrototyp-30.07.15v1\machChartPrototyp2\obj\Debug\machChartPrototyp2.csproj.GenerateResource.Cache

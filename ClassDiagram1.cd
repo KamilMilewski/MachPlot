@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MachPlotNamespace.App" Collapsed="true">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.AsynchronousMotor" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAADACwAAAAAAgBAMBhMBIFQaDwERkYUIAAAgAIAIA=</HashCode>
+      <FileName>AsynchronousMotor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.LoadMachine" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQAIgAAAAABAECAMAAAAAQAAAAKEAAAAQAYAEA=</HashCode>
+      <FileName>LoadMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.MachChart">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MachPlotNamespace.MachChart.MachSeries" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MachChart.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MachPlotNamespace.MachChart.MachAxisYO" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MachChart.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MachPlotNamespace.MachChart.MachAxisXO" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MachChart.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MachPlotNamespace.MachChart.MachAxis" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MachChart.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ArgCAQAEBlAhAJOAIFBIOEVKAAkAAQQwQCoLpKoAZUA=</HashCode>
+      <FileName>MachChart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.MachModel" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACMgAAAAIAAAAAAgAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>MachModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.MachSegment" Collapsed="true">
+    <Position X="1.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAADAAAAAIABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Segment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.MachVectorIntersection" Collapsed="true">
+    <Position X="1.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACCACAAIAAAAAAAAAAAAAAABAAAgCkAQgAAAAAYMQ=</HashCode>
+      <FileName>Segment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.MachIntersectionPoint" Collapsed="true">
+    <Position X="1.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAAACAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Segment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.AboutWindow" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\AboutWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.AxisScopeWindow" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAAACIAAAQAAAAAABAIAEABQAAAAIIAAAQAAIAAAA=</HashCode>
+      <FileName>Windows\AxisScopeWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.DefaultParametersWindow" Collapsed="true">
+    <Position X="7.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AmAgABAgAAAAEAhAAAAACAAQBAhABBBEAECAQoCKAAA=</HashCode>
+      <FileName>Windows\DefaultParametersWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.IntersectionWindow" Collapsed="true">
+    <Position X="7.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\IntersectionWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.LineParametersWindow" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAIAAAAAAAIACAAAhAAIAAAIA=</HashCode>
+      <FileName>Windows\LineParametersWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.MainWindow" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AMgAgACUoFwwVCAsCEBAAAEwwFAI0BiBEMUkIALCBxA=</HashCode>
+      <FileName>Windows\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.SeriesMatrix" Collapsed="true">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAIgAEAAAAAAAAAEAACAAAAAAAQAAAA=</HashCode>
+      <FileName>Windows\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.SeriesFunPair" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAgAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.Parameters" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABACAAgAAAAIhAEDAABACIAQwEAgSAAAAAQAYAMA=</HashCode>
+      <FileName>Windows\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.ModuleChooseWindow" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ModuleChooseWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.Properties.Resources" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MachPlotNamespace.Properties.Settings" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
